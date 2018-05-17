@@ -1,0 +1,25 @@
+{
+  "name": "botstation-hellow-world",
+  "version": "0.0.1",
+  "description": "botstation basic example",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BotStation/botstation-hellow-world.git"
+  },
+  "author": "botstation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BotStation/botstation-hellow-world/issues"
+  },
+  "homepage": "https://github.com/BotStation/botstation-hellow-world#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "request": "^2.85.0"
+  }
+}
