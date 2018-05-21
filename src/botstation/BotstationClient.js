@@ -2,7 +2,7 @@
 const request = require('request');
 
 
-const response_url = 'https://bot.botstation.io/api/v1/message/5afbf354d0106311a7159f32';
+const response_url = 'https://dev.botstation.io/api/v1/message/5afa7f172d65a4219b7651c0';
 const profile = {
     user_id: '',
     reply_token: '',
